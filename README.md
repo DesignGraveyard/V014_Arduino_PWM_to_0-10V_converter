@@ -10,7 +10,10 @@ Watch the video below to see how it works, the LTSpice simulation and a live dem
 
 # Schematic of the PWM to 0-10V converter:  
 This schematic is for 5V logic (Atmega, Arduino).  
-For 3.3V logic (ESP32, STM32) please change R1 from 10kΩ to 20kΩ.  
+For **3.3V logic** (ESP32, STM32) please change **R1 from 10kΩ to 20kΩ.**  
+(see [video at 1:53](https://youtu.be/fAoAL9PbcAg?t=113))  
+
+  
 <img src="PWM_to_0-10V_schematic.jpg" alt="Lab Power Supply" class="responsive-img">
 
 
