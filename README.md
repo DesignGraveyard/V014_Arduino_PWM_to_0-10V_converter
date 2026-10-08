@@ -5,9 +5,11 @@ Watch the video below top see how it works and a live demonstration with a 0-10V
 
 # Check out the video:
 
-[![Watch the video](https://img.youtube.com/vi/TmOTqNCIk3g/maxresdefault.jpg)](https://youtu.be/TmOTqNCIk3g)
+[![Watch the video](https://img.youtube.com/vi/fAoAL9PbcAg/maxresdefault.jpg)](https://youtu.be/fAoAL9PbcAg)
 
 # Schematic of the PWM to 0-10V converter:  
+This schematic is for 5V logic (Atmega, Arduino).  
+For 3.3V logic (ESP32, STM32) please change R1 from 10kΩ to 20kΩ.  
 <img src="PWM_to_0-10V_schematic.jpg" alt="Lab Power Supply" class="responsive-img">
 
 
