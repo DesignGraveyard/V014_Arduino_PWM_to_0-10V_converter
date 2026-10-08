@@ -18,4 +18,4 @@ For 3.3V logic (ESP32, STM32) please change R1 from 10kΩ to 20kΩ.
   
 -Schematic file (jpg)  
 -LTSpice simulation ("Vanilla LTSpice" no dependencies)  
--Arduino Nano PWM demo cosde to test the circuit ("fade")  
+-Arduino Nano PWM demo code to test the circuit ("fade")  
